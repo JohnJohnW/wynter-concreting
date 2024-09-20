@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/wynter-concreting/static/css/main.3ab510b5.css",
+    "main.js": "/wynter-concreting/static/js/main.7aab9835.js",
+    "static/js/453.21a4db8a.chunk.js": "/wynter-concreting/static/js/453.21a4db8a.chunk.js",
+    "static/media/background-image.jpg": "/wynter-concreting/static/media/background-image.1c96da7cad81e184c20a.jpg",
+    "index.html": "/wynter-concreting/index.html",
+    "main.3ab510b5.css.map": "/wynter-concreting/static/css/main.3ab510b5.css.map",
+    "main.7aab9835.js.map": "/wynter-concreting/static/js/main.7aab9835.js.map",
+    "453.21a4db8a.chunk.js.map": "/wynter-concreting/static/js/453.21a4db8a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ab510b5.css",
+    "static/js/main.7aab9835.js"
+  ]
+}
